@@ -1,6 +1,6 @@
 
 # ✈️ Travel Journey
-### AI & Logic Programming Project — ITI 2025
+### AI & Logic Programming Project 
 
 > A Prolog-based trip planning application that finds all possible routes between Egyptian cities using available transportation modes — with an interactive graphical interface.
 
