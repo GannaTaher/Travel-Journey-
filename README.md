@@ -67,6 +67,3 @@ Cairo · Alexandria · Aswan · Luxor · Hurghada · Tanta · Sharm El Sheikh ·
 
 ---
 
-## 🎥 Demo
-
-[▶ Watch Demo](https://youtube.com/your-video-link)
